@@ -11,6 +11,7 @@ namespace ConsoleApplication
         static void Main(string[] args)
         {
             float a = 0f;
+            int j = 1000;
         }
     }
 }
