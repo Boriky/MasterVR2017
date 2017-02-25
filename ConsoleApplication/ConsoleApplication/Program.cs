@@ -10,6 +10,7 @@ namespace ConsoleApplication
     {
         static void Main(string[] args)
         {
+            float a = 0f;
         }
     }
 }
