@@ -27,6 +27,5 @@
 *.exe
 *.out
 *.app
-ConsoleApplication/ConsoleApplication/obj/
 *.suo
-ConsoleApplication/ConsoleApplication/bin/
+
