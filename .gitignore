@@ -29,3 +29,6 @@
 *.app
 *.suo
 
+UE4/Projects/Main/TimeAttack/Content/StarterContent/
+UE4/Projects/Main/TimeAttack/Intermediate/
+UE4/Projects/Main/TimeAttack/Saved/
