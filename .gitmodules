@@ -1,6 +1,6 @@
 [submodule "UE4/Projects/Elia Ducceschi/SuperCarAttack"]
 	path = UE4/Projects/Elia Ducceschi/SuperCarAttack
 	url = https://Toccio@bitbucket.org/eliaducceschi/supercarattack.git
-[submodule "Alessio/MegaCarAttackTamarro"]
-	path = Alessio/MegaCarAttackTamarro
+[submodule "UE4/Projects/Alessio Bendoni/MegaCarAttackTamarro"]
+	path = UE4/Projects/Alessio Bendoni/MegaCarAttackTamarro
 	url = https://Dark_Power91@bitbucket.org/Dark_Power91/megacarattacktamarro.git
