@@ -4,3 +4,6 @@
 [submodule "UE4/Projects/Alessio Bendoni/MegaCarAttackTamarro"]
 	path = UE4/Projects/Alessio Bendoni/MegaCarAttackTamarro
 	url = https://Dark_Power91@bitbucket.org/Dark_Power91/megacarattacktamarro.git
+[submodule "UE4/Projects/Gianluca Goberti/TimeAttack"]
+	path = UE4/Projects/Gianluca Goberti/TimeAttack
+	url = https://github.com/vergat/TimeAttack.git
